@@ -1,6 +1,6 @@
 //Week1 assessment
 //1
-/*let number = 5;
+let number = 5;
 let response;
 
 if (number %2 == 0) {
@@ -39,7 +39,7 @@ if (output %2 == 0) {
     reply = "odd";
 }
 console.log(reply);
-*/
+
 
 //Week 2 Assessment
 //Activity1
